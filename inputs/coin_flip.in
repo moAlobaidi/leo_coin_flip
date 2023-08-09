@@ -1,0 +1,2 @@
+[flip]
+coin: u8 = 0u8;
