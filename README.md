@@ -4,11 +4,11 @@
 
 To compile this Aleo program, run:
 ```bash
-snarkvm build
+leo build
 ```
 
 To execute this Aleo program, run:
 ```bash
-snarkvm run hello
+leo run coin_flip
 ```
 # leo_coin_flip
