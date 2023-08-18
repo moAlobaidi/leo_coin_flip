@@ -9,6 +9,6 @@ leo build
 
 To execute this Aleo program, run:
 ```bash
-leo run coin_flip
+leo run flip
 ```
 # leo_coin_flip
